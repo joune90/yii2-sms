@@ -1,6 +1,6 @@
 <?php
 
-namespace oppein\sms;
+namespace joune90\sms;
 
 use Yii;
 use yii\helpers\FileHelper;
@@ -8,7 +8,7 @@ use yii\helpers\FileHelper;
 /**
  * 短信发送基类
  *
- * @author Cosmo <oppein@gmail.com>
+ * @author Cosmo <joune90@gmail.com>
  */
 abstract class Sms extends \yii\base\Component
 {

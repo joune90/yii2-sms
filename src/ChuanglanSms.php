@@ -5,14 +5,14 @@
  * Date: 2018/11/30
  * Time: 14:32
  */
-namespace oppein\sms;
+namespace joune90\sms;
 use yii\base\InvalidConfigException;
 use yii\base\NotSupportedException;
 
 /**
  * 创蓝短信平台
  *
- * @author Cosmo <oppein@gmail.com>
+ * @author Cosmo <joune90@gmail.com>
  * @property string $password write-only password
  * @property string $state read-only state
  * @property string $message read-only message

@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist oppein/yii2-sms "*"
+php composer.phar require --prefer-dist joune90/yii2-sms "*"
 ```
 
 or add
 
 ```
-"oppein/yii2-sms": "*"
+"joune90/yii2-sms": "*"
 ```
 
 to the require section of your `composer.json` file.
@@ -28,4 +28,4 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \oppein\sms\AutoloadExample::widget(); ?>```
+<?= \joune90\sms\AutoloadExample::widget(); ?>```
