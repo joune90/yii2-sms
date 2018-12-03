@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "oppein\\sms\\": ""
+            "oppein\\sms\\": "src"
         }
     }
 }
